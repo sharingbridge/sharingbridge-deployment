@@ -23,12 +23,16 @@ For overall project context, see the [main SharingBridge repository](https://git
 
 ## Repository Status
 
-🚧 **Status:** Initial Setup  
+🚧 **Status:** Initial Setup (K8s/CI pipelines planned)  
 📅 **Date:** January 9, 2026
+
+## Render MVP (active)
+
+See **[configuration/](https://github.com/sharingbridge/sharingbridge/tree/main/configuration)** in the coordination repo (`backend-render.md`, `authentication.md`, `mobile-client.md`, `field-handoff.md`).
 
 ## Getting Started
 
-> Coming soon - Development setup instructions
+> Kubernetes/CI setup coming later. For Render MVP, see link above.
 
 ## Contributing
 
